@@ -1,0 +1,17 @@
+.chat--embed {
+	width: 360px;
+	height: 520px;
+	border: 1px solid var(--border);
+	border-radius: 12px;
+	background: var(--bg);
+}
+
+.chat--embed .chat__messages {
+	padding: 12px;
+}
+
+.chat--embed .chat__form {
+	padding: 12px;
+}
+
+
