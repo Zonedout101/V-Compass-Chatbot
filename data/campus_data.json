@@ -1,0 +1,585 @@
+{
+    "professors": [
+      {
+        "question": "Where is Hari Seetha's office?",
+        "keywords": "hari seetha, seetha, hari, professor seetha, professor hari, office, cabin, location, room",
+        "response": "Hari Seetha's office is in CB, Room 222."
+      },
+      {
+        "question": "Where is Soubhagya Sankar Barpanda's office?",
+        "keywords": "soubhagya sankar barpanda, soubhagya, sankar, barpanda, professor barpanda, professor soubhagya, office, cabin, location, room",
+        "response": "Soubhagya Sankar Barpanda's office is in CB, Room 427-C."
+      },
+      {
+        "question": "Where is Ajith Jubilson E's office?",
+        "keywords": "ajith jubilson, ajith, jubilson, professor ajith, professor jubilson, office, cabin, location, room",
+        "response": "Ajith Jubilson E's office is in AB-2, Room G-05 (SDC)."
+      },
+      {
+        "question": "Where is Hussain Syed's office?",
+        "keywords": "hussain syed, hussain, syed, professor hussain, professor syed, office, cabin, location, room",
+        "response": "Hussain Syed's office is in CB, Room 227-D."
+      },
+      {
+        "question": "Where is Deepasikha Mishra's office?",
+        "keywords": "deepasikha mishra, deepasikha, mishra, professor deepasikha, professor mishra, office, cabin, location, room",
+        "response": "Deepasikha Mishra's office is in AB-1, Room 326-G."
+      },
+      {
+        "question": "Where is Saroj Kumar Panigrahy's office?",
+        "keywords": "saroj kumar panigrahy, saroj, panigrahy, kumar, professor saroj, professor panigrahy, office, cabin, location, room",
+        "response": "Saroj Kumar Panigrahy's office is in CB, Room 320-D."
+      },
+      {
+        "question": "Where is Asish Kumar Dalai's office?",
+        "keywords": "asish kumar dalai, asish, dalai, kumar, professor asish, professor dalai, office, cabin, location, room",
+        "response": "Asish Kumar Dalai's office is in CB, Room 327-K."
+      },
+      {
+        "question": "Where is Ravi Sankar Barpanda's office?",
+        "keywords": "ravi sankar barpanda, ravi, barpanda, sankar, professor ravi, professor barpanda, office, cabin, location, room",
+        "response": "Ravi Sankar Barpanda's office is in AB-2, Room G-02 (SDC)."
+      },
+      {
+        "question": "Where is Hari Kishan Kondaveeti's office?",
+        "keywords": "hari kishan kondaveeti, hari, kishan, kondaveeti, professor hari, professor kondaveeti, office, cabin, location, room",
+        "response": "Hari Kishan Kondaveeti's office is in CB, Room G-05B."
+      },
+      {
+        "question": "Where is Nandha Kumar R's office?",
+        "keywords": "nandha kumar r, nandha, kumar, professor nandha, professor kumar, office, cabin, location, room",
+        "response": "Nandha Kumar R's office is in CB, Room 415-C (CTS-421)."
+      },
+      {
+        "question": "Where is Sibi Chakkaravarthy S's office?",
+        "keywords": "sibi chakkaravarthy, sibi, chakkaravarthy, professor sibi, professor chakkaravarthy, office, cabin, location, room",
+        "response": "Sibi Chakkaravarthy S's office is in CB, Room 222."
+      },
+      {
+        "question": "Where is Sudhakar Ilango S's office?",
+        "keywords": "sudhakar ilango, sudhakar, ilango, professor sudhakar, professor ilango, office, cabin, location, room",
+        "response": "Sudhakar Ilango S's office is in CB, Room 320-C."
+      },
+      {
+        "question": "Where is Aravapalli Rama Satish's office?",
+        "keywords": "aravapalli rama satish, aravapalli, rama, satish, professor satish, professor aravapalli, office, cabin, location, room",
+        "response": "Aravapalli Rama Satish's office is in AB-2, Room G-02 (SDC)."
+      },
+      {
+        "question": "Where is Devarakonda Nagraju's office?",
+        "keywords": "devarakonda nagraju, devarakonda, nagraju, professor devarakonda, professor nagraju, office, cabin, location, room",
+        "response": "Devarakonda Nagraju's office is in CB, Room G05-G."
+      },
+      {
+        "question": "Where is Gopikrishnan S's office?",
+        "keywords": "gopikrishnan s, gopikrishnan, professor gopikrishnan, office, cabin, location, room",
+        "response": "Gopikrishnan S's office is in CB, Room 418-FG."
+      },
+      {
+        "question": "Where is Jonnadula Harikiran's office?",
+        "keywords": "jonnadula harikiran, jonnadula, harikiran, professor jonnadula, professor harikiran, office, cabin, location, room",
+        "response": "Jonnadula Harikiran's office is in CB, Room 103-F."
+      },
+      {
+        "question": "Where is Prabha Selvaraj's office?",
+        "keywords": "prabha selvaraj, prabha, selvaraj, professor prabha, professor selvaraj, office, cabin, location, room",
+        "response": "Prabha Selvaraj's office is in CB, Room 415-H."
+      },
+      {
+        "question": "Where is Sandipan Maiti's office?",
+        "keywords": "sandipan maiti, sandipan, maiti, professor sandipan, professor maiti, office, cabin, location, room",
+        "response": "Sandipan Maiti's office is in AB-2, Room G-02 (SDC)."
+      },
+      {
+        "question": "Where is Ganesh Reddy Karri's office?",
+        "keywords": "ganesh reddy karri, ganesh, reddy, karri, professor ganesh, professor karri, office, cabin, location, room",
+        "response": "Ganesh Reddy Karri's office is in CB, Room 221."
+      },
+      {
+        "question": "Where is Kumar Debasis's office?",
+        "keywords": "kumar debasis, debasis, kumar, professor debasis, professor kumar, office, cabin, location, room",
+        "response": "Kumar Debasis's office is in CB, Room 407-A."
+      },
+      {
+        "question": "Where is Somya Ranjan Sahoo's office?",
+        "keywords": "somya ranjan sahoo, somya, ranjan, sahoo, professor somya, professor sahoo, office, cabin, location, room",
+        "response": "Somya Ranjan Sahoo's office is in CB, Room 407-H."
+      },
+      {
+        "question": "Where is Vikash Kumar Singh's office?",
+        "keywords": "vikash kumar singh, vikash, singh, kumar, professor vikash, professor singh, office, cabin, location, room",
+        "response": "Vikash Kumar Singh's office is in AB-1, Room G36."
+      },
+      {
+        "question": "Where is Sanket Mishra's office?",
+        "keywords": "sanket mishra, sanket, mishra, professor sanket, professor mishra, office, cabin, location, room",
+        "response": "Sanket Mishra's office is in CB, Room 115-A."
+      },
+      {
+        "question": "Where is Senthil Murugan's office?",
+        "keywords": "senthil murugan, senthil, murugan, professor senthil, professor murugan, office, cabin, location, room",
+        "response": "Senthil Murugan's office is NA."
+      },
+      {
+        "question": "Where is Lalitha Kumari's office?",
+        "keywords": "lalitha kumari, lalitha, kumari, professor lalitha, professor kumari, office, cabin, location, room",
+        "response": "Lalitha Kumari's office is in CB, Room 407-J."
+      },
+      {
+        "question": "Where is Chittipireddi Koteswararao's office?",
+        "keywords": "chittipireddi koteswararao, chittipireddi, koteswararao, professor chittipireddi, professor koteswararao, office, cabin, location, room",
+        "response": "Chittipireddi Koteswararao's office is in CB, Room 204-C."
+      },
+      {
+        "question": "Where is Karthika Natarajan's office?",
+        "keywords": "karthika natarajan, karthika, natarajan, professor karthika, professor natarajan, office, cabin, location, room",
+        "response": "Karthika Natarajan's office is in CB, Room 426-A."
+      },
+      {
+        "question": "Where is Sheela Jayachandran's office?",
+        "keywords": "sheela jayachandran, sheela, jayachandran, professor sheela, professor jayachandran, office, cabin, location, room",
+        "response": "Sheela Jayachandran's office is in CB, Room 322-F."
+      },
+      {
+        "question": "Where is Udit Narayana Kar's office?",
+        "keywords": "udit narayana kar, udit, narayana, kar, professor udit, professor kar, office, cabin, location, room",
+        "response": "Udit Narayana Kar's office is in CB, Room 327-A."
+      },
+      {
+        "question": "Where is Kuppusamy's office?",
+        "keywords": "kuppusamy, professor kuppusamy, office, cabin, location, room",
+        "response": "Kuppusamy's office is in CB, Room 407-A."
+      },
+      {
+        "question": "Where is Divya Meena Sundaram's office?",
+        "keywords": "divya meena sundaram, divya, meena, sundaram, professor divya, professor sundaram, office, cabin, location, room",
+        "response": "Divya Meena Sundaram's office is in CB, Room 407-E."
+      },
+      {
+        "question": "Where is Rohit Kumar Das's office?",
+        "keywords": "rohit kumar das, rohit, das, kumar, professor rohit, professor das, office, cabin, location, room",
+        "response": "Rohit Kumar Das's office is in CB, Room 407-C."
+      },
+      {
+        "question": "Where is Monali Bordoloi's office?",
+        "keywords": "monali bordoloi, monali, bordoloi, professor monali, professor bordoloi, office, cabin, location, room",
+        "response": "Monali Bordoloi's office is in CB, Room 407-B."
+      },
+      {
+        "question": "Where is Manomita Chakraborty's office?",
+        "keywords": "manomita chakraborty, manomita, chakraborty, professor manomita, professor chakraborty, office, cabin, location, room",
+        "response": "Manomita Chakraborty's office is in CB, Room 407-H."
+      },
+      {
+        "question": "Where is Reeja S R's office?",
+        "keywords": "reeja s r, reeja, professor reeja, office, cabin, location, room",
+        "response": "Reeja S R's office is in CB, Room 604-D."
+      },
+      {
+        "question": "Where is Muneeswari G's office?",
+        "keywords": "muneeswari g, muneeswari, professor muneeswari, office, cabin, location, room",
+        "response": "Muneeswari G's office is in CB, Room 205-E."
+      },
+      {
+        "question": "Where is Dasari Venkata Lakshmi's office?",
+        "keywords": "dasari venkata lakshmi, dasari, venkata, lakshmi, professor lakshmi, professor dasari, office, cabin, location, room",
+        "response": "Dasari Venkata Lakshmi's office is in CB, Room 607-G."
+      },
+      {
+        "question": "Where is Atul Hasan Shahid's office?",
+        "keywords": "atul hasan shahid, atul, shahid, hasan, professor atul, professor shahid, office, cabin, location, room",
+        "response": "Atul Hasan Shahid's office is in CB, Room 427-F."
+      },
+      {
+        "question": "Where is Arindam Dey's office?",
+        "keywords": "arindam dey, arindam, dey, professor arindam, professor dey, office, cabin, location, room",
+        "response": "Arindam Dey's office is in CB, Room 604-C."
+      },
+      {
+        "question": "Where is Bolem Sai Chandana's office?",
+        "keywords": "bolem sai chandana, bolem, sai, chandana, professor chandana, professor bolem, office, cabin, location, room",
+        "response": "Bolem Sai Chandana's office is in CB, Room 604-A."
+      },
+      {
+        "question": "Where is Rajesh Duvvuru's office?",
+        "keywords": "rajesh duvvuru, rajesh, duvvuru, professor rajesh, professor duvvuru, office, cabin, location, room",
+        "response": "Rajesh Duvvuru's office is in CB, Room 610-B."
+      },
+      {
+        "question": "Where is Beebi Naseeba's office?",
+        "keywords": "beebi naseeba, beebi, naseeba, professor beebi, professor naseeba, office, cabin, location, room",
+        "response": "Beebi Naseeba's office is in CB, Room 415-I."
+      },
+      {
+        "question": "Where is Eswaraiah Rayichoti's office?",
+        "keywords": "eswaraiah rayichoti, eswaraiah, rayichoti, professor eswaraiah, professor rayichoti, office, cabin, location, room",
+        "response": "Eswaraiah Rayichoti's office is in CB, Room 205-L."
+      },
+      {
+        "question": "Where is Nagendra Panini Challa's office?",
+        "keywords": "nagendra panini challa, nagendra, panini, challa, professor nagendra, professor challa, office, cabin, location, room",
+        "response": "Nagendra Panini Challa's office is in CB, Room 415-H."
+      },
+      {
+        "question": "Where is Siddique Ibrahim Peer Mohamed's office?",
+        "keywords": "siddique ibrahim peer mohamed, siddique, ibrahim, peer, mohamed, professor siddique, professor mohamed, office, cabin, location, room",
+        "response": "Siddique Ibrahim Peer Mohamed's office is in CB, Room 201-F."
+      },
+      {
+        "question": "Where is Selva Kumar S's office?",
+        "keywords": "selva kumar, selva, kumar, professor selva, professor kumar, office, cabin, location, room",
+        "response": "Selva Kumar S's office is in AB-2, Room G-05 (SDC)."
+      },
+      {
+        "question": "Where is Jagadeesh M S's office?",
+        "keywords": "jagadeesh m s, jagadeesh, professor jagadeesh, office, cabin, location, room",
+        "response": "Jagadeesh M S's office is in CB, Room 115-E."
+      },
+      {
+        "question": "Where is Naga Jagadeesh Bommagani's office?",
+        "keywords": "naga jagadeesh bommagani, naga, jagadeesh, bommagani, professor jagadeesh, professor bommagani, office, cabin, location, room",
+        "response": "Naga Jagadeesh Bommagani's office is in CB, Room 201-F."
+      },
+      {
+        "question": "Where is Prashanth Rajam's office?",
+        "keywords": "prashanth rajam, prashanth, rajam, professor prashanth, professor rajam, office, cabin, location, room",
+        "response": "Prashanth Rajam's office is in CB, Room 201-E."
+      },
+      {
+        "question": "Where is Rahul Katarya's office?",
+        "keywords": "rahul katarya, rahul, katarya, professor rahul, professor katarya, office, cabin, location, room",
+        "response": "Rahul Katarya's office is in CB, Room 201-E."
+      },
+      {
+        "question": "Where is Sowmya Narayanan Sadagopan's office?",
+        "keywords": "sowmya narayanan sadagopan, sowmya, sadagopan, narayanan, professor sowmya, professor sadagopan, office, cabin, location, room",
+        "response": "Sowmya Narayanan Sadagopan's office is in CB, Room 601-B."
+      },
+      {
+        "question": "Where is Ramesh Kumar S's office?",
+        "keywords": "ramesh kumar s, ramesh, kumar, professor ramesh, professor kumar, office, cabin, location, room",
+        "response": "Ramesh Kumar S's office is in CB, Room 601-A."
+      },
+      {
+        "question": "Where is Sriram V's office?",
+        "keywords": "sriram v, sriram, professor sriram, office, cabin, location, room",
+        "response": "Sriram V's office is in CB, Room 601-C."
+      },
+      {
+        "question": "Where is Lavanya Suresh's office?",
+        "keywords": "lavanya suresh, lavanya, suresh, professor lavanya, professor suresh, office, cabin, location, room",
+        "response": "Lavanya Suresh's office is in CB, Room 601-D."
+      },
+      {
+        "question": "Where is Karthikeyan S's office?",
+        "keywords": "karthikeyan s, karthikeyan, professor karthikeyan, office, cabin, location, room",
+        "response": "Karthikeyan S's office is in CB, Room 602-B."
+      },
+      {
+        "question": "Where is Poonkuzhali R's office?",
+        "keywords": "poonkuzhali r, poonkuzhali, professor poonkuzhali, office, cabin, location, room",
+        "response": "Poonkuzhali R's office is in CB, Room 602-C."
+      },
+      {
+        "question": "Where is Gayathri Devi R's office?",
+        "keywords": "gayathri devi r, gayathri, devi, professor gayathri, professor devi, office, cabin, location, room",
+        "response": "Gayathri Devi R's office is in CB, Room 602-D."
+      },
+      {
+        "question": "Where is Arun Prasath R's office?",
+        "keywords": "arun prasath r, arun, prasath, professor arun, professor prasath, office, cabin, location, room",
+        "response": "Arun Prasath R's office is in CB, Room 603-B."
+      },
+      {
+        "question": "Where is Radhika S's office?",
+        "keywords": "radhika s, radhika, professor radhika, office, cabin, location, room",
+        "response": "Radhika S's office is in CB, Room 603-C."
+      },
+      {
+        "question": "Where is Sudha Rani R's office?",
+        "keywords": "sudha rani r, sudha, rani, professor sudha, professor rani, office, cabin, location, room",
+        "response": "Sudha Rani R's office is in CB, Room 603-D."
+      },
+      {
+        "question": "Where is Priya Darshini R's office?",
+        "keywords": "priya darshini r, priya, darshini, professor priya, professor darshini, office, cabin, location, room",
+        "response": "Priya Darshini R's office is in CB, Room 604-B."
+      },
+      {
+        "question": "Where is Anitha R's office?",
+        "keywords": "anitha r, anitha, professor anitha, office, cabin, location, room",
+        "response": "Anitha R's office is in CB, Room 605-A."
+      },
+      {
+        "question": "Where is Bhavani R's office?",
+        "keywords": "bhavani r, bhavani, professor bhavani, office, cabin, location, room",
+        "response": "Bhavani R's office is in CB, Room 605-B."
+      },
+      {
+        "question": "Where is Kiran Kumar R's office?",
+        "keywords": "kiran kumar r, kiran, kumar, professor kiran, professor kumar, office, cabin, location, room",
+        "response": "Kiran Kumar R's office is in CB, Room 605-C."
+      },
+      {
+        "question": "Where is Naveen R's office?",
+        "keywords": "naveen r, naveen, professor naveen, office, cabin, location, room",
+        "response": "Naveen R's office is in CB, Room 606-A."
+      },
+      {
+        "question": "Where is Rajeshwari R's office?",
+        "keywords": "rajeshwari r, rajeshwari, professor rajeshwari, office, cabin, location, room",
+        "response": "Rajeshwari R's office is in CB, Room 606-B."
+      },
+      {
+        "question": "Where is Santhosh R's office?",
+        "keywords": "santhosh r, santhosh, professor santhosh, office, cabin, location, room",
+        "response": "Santhosh R's office is in CB, Room 606-C."
+      },
+      {
+        "question": "Where is Prakash R's office?",
+        "keywords": "prakash r, prakash, professor prakash, office, cabin, location, room",
+        "response": "Prakash R's office is in CB, Room 606-D."
+      },
+      {
+        "question": "Where is Mahesh R's office?",
+        "keywords": "mahesh r, mahesh, professor mahesh, office, cabin, location, room",
+        "response": "Mahesh R's office is in CB, Room 607-A."
+      },
+      {
+        "question": "Where is Ramesh R's office?",
+        "keywords": "ramesh r, ramesh, professor ramesh, office, cabin, location, room",
+        "response": "Ramesh R's office is in CB, Room 607-B."
+      },
+      {
+        "question": "Where is Suresh R's office?",
+        "keywords": "suresh r, suresh, professor suresh, office, cabin, location, room",
+        "response": "Suresh R's office is in CB, Room 607-C."
+      },
+      {
+        "question": "Where is Vinod R's office?",
+        "keywords": "vinod r, vinod, professor vinod, office, cabin, location, room",
+        "response": "Vinod R's office is in CB, Room 607-D."
+      },
+      {
+        "question": "Where is Ashok R's office?",
+        "keywords": "ashok r, ashok, professor ashok, office, cabin, location, room",
+        "response": "Ashok R's office is in CB, Room 608-A."
+      },
+      {
+        "question": "Where is Deepak R's office?",
+        "keywords": "deepak r, deepak, professor deepak, office, cabin, location, room",
+        "response": "Deepak R's office is in CB, Room 608-B."
+      },
+      {
+        "question": "Where is Manikandan R's office?",
+        "keywords": "manikandan r, manikandan, professor manikandan, office, cabin, location, room",
+        "response": "Manikandan R's office is in CB, Room 608-C."
+      },
+      {
+        "question": "Where is Saravanan R's office?",
+        "keywords": "saravanan r, saravanan, professor saravanan, office, cabin, location, room",
+        "response": "Saravanan R's office is in CB, Room 608-D."
+      },
+      {
+        "question": "Where is Venkatesh R's office?",
+        "keywords": "venkatesh r, venkatesh, professor venkatesh, office, cabin, location, room",
+        "response": "Venkatesh R's office is in CB, Room 609-A."
+      },
+      {
+        "question": "Where is Balaji R's office?",
+        "keywords": "balaji r, balaji, professor balaji, office, cabin, location, room",
+        "response": "Balaji R's office is in CB, Room 609-B."
+      },
+      {
+        "question": "Where is Gopal R's office?",
+        "keywords": "gopal r, gopal, professor gopal, office, cabin, location, room",
+        "response": "Gopal R's office is in CB, Room 609-C."
+      },
+      {
+        "question": "Where is Kannan R's office?",
+        "keywords": "kannan r, kannan, professor kannan, office, cabin, location, room",
+        "response": "Kannan R's office is in CB, Room 609-D."
+      },
+      {
+        "question": "Where is Murugan R's office?",
+        "keywords": "murugan r, murugan, professor murugan, office, cabin, location, room",
+        "response": "Murugan R's office is in CB, Room 610-A."
+      },
+      {
+        "question": "Where is Perumal R's office?",
+        "keywords": "perumal r, perumal, professor perumal, office, cabin, location, room",
+        "response": "Perumal R's office is in CB, Room 610-C."
+      },
+      {
+        "question": "Where is Rajendran R's office?",
+        "keywords": "rajendran r, rajendran, professor rajendran, office, cabin, location, room",
+        "response": "Rajendran R's office is in CB, Room 610-D."
+      },
+      {
+        "question": "Where is Shanmugam R's office?",
+        "keywords": "shanmugam r, shanmugam, professor shanmugam, office, cabin, location, room",
+        "response": "Shanmugam R's office is in CB, Room 611-A."
+      },
+      {
+        "question": "Where is Thangavel R's office?",
+        "keywords": "thangavel r, thangavel, professor thangavel, office, cabin, location, room",
+        "response": "Thangavel R's office is in CB, Room 611-B."
+      },
+      {
+        "question": "Where is Velmurugan R's office?",
+        "keywords": "velmurugan r, velmurugan, professor velmurugan, office, cabin, location, room",
+        "response": "Velmurugan R's office is in CB, Room 611-C."
+      },
+      {
+        "question": "Where is Yogesh R's office?",
+        "keywords": "yogesh r, yogesh, professor yogesh, office, cabin, location, room",
+        "response": "Yogesh R's office is in CB, Room 611-D."
+      },
+      {
+        "question": "Where is Aravind R's office?",
+        "keywords": "aravind r, aravind, professor aravind, office, cabin, location, room",
+        "response": "Aravind R's office is in CB, Room 612-A."
+      },
+      {
+        "question": "Where is Bharath R's office?",
+        "keywords": "bharath r, bharath, professor bharath, office, cabin, location, room",
+        "response": "Bharath R's office is in CB, Room 612-B."
+      },
+      {
+        "question": "Where is Chandru R's office?",
+        "keywords": "chandru r, chandru, professor chandru, office, cabin, location, room",
+        "response": "Chandru R's office is in CB, Room 612-C."
+      },
+      {
+        "question": "Where is Dinesh R's office?",
+        "keywords": "dinesh r, dinesh, professor dinesh, office, cabin, location, room",
+        "response": "Dinesh R's office is in CB, Room 612-D."
+      },
+      {
+        "question": "Where is Elango R's office?",
+        "keywords": "elango r, elango, professor elango, office, cabin, location, room",
+        "response": "Elango R's office is in CB, Room 613-A."
+      },
+      {
+        "question": "Where is Farooq R's office?",
+        "keywords": "farooq r, farooq, professor farooq, office, cabin, location, room",
+        "response": "Farooq R's office is in CB, Room 613-B."
+      },
+      {
+        "question": "Where is Ganesan R's office?",
+        "keywords": "ganesan r, ganesan, professor ganesan, office, cabin, location, room",
+        "response": "Ganesan R's office is in CB, Room 613-C."
+      },
+      {
+        "question": "Where is Hari R's office?",
+        "keywords": "hari r, hari, professor hari, office, cabin, location, room",
+        "response": "Hari R's office is in CB, Room 613-D."
+      },
+      {
+        "question": "Where is Ilango R's office?",
+        "keywords": "ilango r, ilango, professor ilango, office, cabin, location, room",
+        "response": "Ilango R's office is in CB, Room 614-A."
+      },
+      {
+        "question": "Where is Jagan R's office?",
+        "keywords": "jagan r, jagan, professor jagan, office, cabin, location, room",
+        "response": "Jagan R's office is in CB, Room 614-B."
+      },
+      {
+        "question": "Where is Karthik R's office?",
+        "keywords": "karthik r, karthik, professor karthik, office, cabin, location, room",
+        "response": "Karthik R's office is in CB, Room 614-C."
+      },
+      {
+        "question": "Where is Lokesh R's office?",
+        "keywords": "lokesh r, lokesh, professor lokesh, office, cabin, location, room",
+        "response": "Lokesh R's office is in CB, Room 614-D."
+      }
+    ],
+    "offices": [
+        {
+          "question": "Where is the library?",
+          "keywords": "library, books, study, location",
+          "response": "The Library is in AB1, 2nd floor."
+        },
+        {
+          "question": "Where is the Dean or Programme Chair office?",
+          "keywords": "dean office, programme chair, pc, office, location",
+          "response": "The Dean or Programme Chair offices are located across AB1, CB, and AB2 buildings."
+        },
+        {
+          "question": "Where is the Dean Academics office?",
+          "keywords": "dean academics, academics office, location",
+          "response": "The Dean Academics office is in AB1, Room G36."
+        },
+        {
+          "question": "Where is the COE office?",
+          "keywords": "coe, controller of examinations, exams office, office location",
+          "response": "The COE (Controller of Examinations) office is in AB1, Room 229."
+        },
+        {
+          "question": "Where is the Engineering Clinics office?",
+          "keywords": "engineering clinics, office, lab, clinic",
+          "response": "The Engineering Clinics office is in CB, Room 210."
+        },
+        {
+          "question": "Where is the IIEC Office?",
+          "keywords": "iiec, innovation, incubation, entrepreneurship, office",
+          "response": "The IIEC Office is in CB, Room 206."
+        },
+        {
+          "question": "Where is the CDC Office?",
+          "keywords": "cdc, career development center, placement, training office",
+          "response": "The CDC Office is in CB, Room 312."
+        },
+        {
+          "question": "Where is the Physical Education office?",
+          "keywords": "physical education, pe, sports office",
+          "response": "The Physical Education Office is in AB1, Room 425."
+        },
+        {
+          "question": "Where is the Transport Office?",
+          "keywords": "transport, bus, vehicle, commute office",
+          "response": "The Transport Office is in CB, Room G19."
+        },
+        {
+          "question": "Where is the Hostel Office?",
+          "keywords": "hostel, mh1, lh1, hostel office",
+          "response": "The Hostel Office is located at MH1 and LH1 offices."
+        },
+        {
+          "question": "Where is the Alumni Association office?",
+          "keywords": "alumni, alumni association office, office location",
+          "response": "The Alumni Association office is in AB1, Room 140."
+        },
+        {
+          "question": "Where is the Finance Office?",
+          "keywords": "finance, accounts, fees, finance office",
+          "response": "The Finance Office is in CB, Room G-01."
+        },
+        {
+          "question": "Where is the Student Records Section (SRS) office?",
+          "keywords": "student records, srs, records office",
+          "response": "The Student Records Section (SRS Office) is in AB1, Room 326."
+        }
+      ],
+    
+      "placement_training": [
+        {
+          "question": "Whom should I contact for LITCODER, LITQ or training related queries?",
+          "keywords": "litcoder, litq, psychometric test, berribot, job prep, training, summer internship, certifications, placement training",
+          "response": "For these queries, write to training.cdc@vitap.ac.in"
+        },
+        {
+          "question": "Whom should I contact for placement and CDC portal queries?",
+          "keywords": "cdc portal, mock test, placements, interview venues, transcripts, verification, final internships, internship marks",
+          "response": "For these queries, write to patqueries.ap@vitap.ac.in"
+        },
+        {
+          "question": "Whom should I contact for a Letter of Recommendation?",
+          "keywords": "lor, letter of recommendation, reference letter",
+          "response": "For Letter of Recommendation queries, write to lor.cdc@vitap.ac.in"
+        }
+      ]
+  }
+  
